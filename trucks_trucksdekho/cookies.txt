@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+trucks.cardekho.com	TRUE	/	FALSE	1999999999	truck_session_id	40fb5d056cbe604fbdf41fcb037a84e0
+trucks.cardekho.com	TRUE	/	FALSE	1999999999	SameSite	Strict
+
